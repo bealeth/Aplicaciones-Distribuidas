@@ -8,6 +8,7 @@ https://youtu.be/q6KzqhWRkJ4 ||  https://youtu.be/HND6OzI0LIk
 ## 4. Práctica de repaso
 ## 5. Práctica React - 001
 ## 6. Práctica Starting with React
+## 7. Práctica de Bolsa
 
 
 Alumna: Beatriz Cruz Carrillo

@@ -1,10 +1,9 @@
 # Aplicaciones-Distribuidas
-
-# 1. Práctica con Git
-
-## Enlaces a los vídeos de las prácticas:
-1. Práctica de Git = https://youtu.be/wL_vsmk45TY
-2. Práctica con NodeJs = https://youtu.be/q6KzqhWRkJ4
-3. Práctica de notificación mediante Telegram = https://youtu.be/HND6OzI0LIk
-
-# 2. Uso de Postman
+## 0. Evidencia escrita (reporte)
+## 1. Práctica con Git
+https://youtu.be/wL_vsmk45TY
+## 2. Práctica con Postman
+https://youtu.be/q6KzqhWRkJ4
+https://youtu.be/HND6OzI0LIk
+## 3. Práctica de automatización
+## 4. Práctica de repaso
